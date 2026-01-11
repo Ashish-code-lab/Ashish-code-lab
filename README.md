@@ -25,14 +25,6 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-code-lab&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-code-lab&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashish-code-lab&theme=tokyonight"/>
@@ -40,12 +32,6 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-code-lab&theme=onedark&no-frame=true"/>
-</p>
-
----
 
 ## 📌 Featured Projects
 - 🔐 Cybersecurity Tools & Scripts  
