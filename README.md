@@ -65,9 +65,9 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+
+![Snake animation](https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg)
+
 
 ---
 
