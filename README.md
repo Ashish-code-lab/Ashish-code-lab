@@ -26,26 +26,25 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-code-lab&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-code-lab&layout=compact&theme=tokyonight" height="165"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-code-lab&show_icons=true&count_private=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-code-lab&layout=compact&theme=github_dark)
+
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashish-code-lab&theme=tokyonight"/>
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashish-code-lab&theme=github-dark-blue)
+
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-code-lab&theme=onedark&no-frame=true"/>
-</p>
 
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ashish-code-lab&theme=darkhub&no-frame=true&margin-w=10)
+
 
 ## 📌 Featured Projects
 - 🔐 Cybersecurity Tools & Scripts  
@@ -64,9 +63,7 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg)
 
 
 ---
