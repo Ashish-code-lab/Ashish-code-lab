@@ -4,41 +4,46 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashish-code-lab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ashish-code-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🔐 Strong interest in **Cybersecurity & System Security**
-- 🎓 Integrated **B.Tech + M.Tech (Cybersecurity)**
-- 🧪 Learning **SOC, Malware Analysis & Cloud Security**
-- 🚀 Working on **hands-on security projects**
-- 🎯 Targeting **Govt / Research / Cybersecurity Roles**
+- 🎓 Pursuing **Integrated B.Tech + M.Tech (Cybersecurity)**
+- 🧪 Exploring **SOC Operations, Malware Analysis & Cloud Security**
+- 🚀 Building **real-world security tools & projects**
+- 🎯 Aspiring for **High-impact Govt / Research / Cybersecurity Roles**
 
 ---
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,bash,git,github,html,css,js,aws,docker,kubernetes,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,bash,git,github,html,css,js,aws,docker,kubernetes,mysql&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-code-lab)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-code-lab&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-code-lab&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-code-lab&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashish-code-lab)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashish-code-lab&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ashish-code-lab)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-code-lab&theme=onedark&no-frame=true"/>
+</p>
 
 ---
 
@@ -48,18 +53,24 @@ Cybersecurity Enthusiast | Integrated B.Tech + M.Tech (CSE – Cybersecurity)
 - ☁️ Cloud Security Implementations  
 - 🛡️ SOC & Blue-Team Automation  
 
+👉 **Explore pinned repositories below 👇**
+
 ---
 
 ## 🌐 Connect With Me
 - 📧 Email: **ashishk1764@gmail.com**
-- 💼 LinkedIn: *(add link later)*
-- 🌍 Portfolio: *Coming Soon*
+- 💼 LinkedIn: **(add your LinkedIn link)**
+- 🌍 Portfolio: *Coming Soon 🚀*
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashish-code-lab/Ashish-code-lab/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
-<p align="center"><b>⚡ Secure the system, master the future.</b></p>
+<p align="center">
+  <b>⚡ “Secure the system, master the future.”</b>
+</p>
